@@ -1,0 +1,19 @@
+.Cell {
+  height: 100px;
+  width: 100px;
+  transition: ease 300ms;
+  display: table-cell;
+}
+
+.Cell:hover{
+  opacity: 0.95;
+  transform: scale(0.95);
+}
+
+.Cell-on {
+  background-color: fuchsia;
+}
+
+.Cell-off {
+  background-color: floralwhite;
+}

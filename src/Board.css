@@ -1,0 +1,6 @@
+.Board-grid {
+  margin: 0 auto;
+  border: 3px solid white;
+  width: 550px;
+  height: 550px;
+}
